@@ -1,0 +1,13 @@
+body {
+  padding:20px;
+  color:#5b0271;
+  background-color: rgb(159, 248, 242);
+  text-align: center;
+}   
+
+li {
+  padding:20px;
+  color:#8f04b1;
+  background-color: rgb(159, 248, 242);
+  text-align: left;
+}   
